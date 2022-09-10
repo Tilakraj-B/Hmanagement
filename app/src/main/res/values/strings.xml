@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hmanagement</string>
+    <string name="email">E-mail</string>
+    <string name="pass">Password</string>
+    <string name="newusr">New User? Sign UP</string>
+    <string name="signin">Sign in</string>
+    <string name="doc">Doctor</string>
+    <string name="nur">Nurse</string>
+</resources>
